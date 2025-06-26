@@ -1,9 +1,0 @@
-name: Test Lint
-
-on: 
-  push:
-  pull_request:
-
-jobs:
-  call-linter:
-     uses: openhorizonrobotics/.github/.github/workflows/python-linter.yml@main
