@@ -1,0 +1,3 @@
+version: 1
+description: Test Linting for YAML files
+valid: true
