@@ -1,3 +1,9 @@
-version: 1
-description: Test Linting for YAML files
-valid: true
+name: Bad CI
+
+on: push
+
+jobs:
+lint
+  runs-on: ubuntu-latest
+  steps:
+    - uses: actions/checkout@v2
