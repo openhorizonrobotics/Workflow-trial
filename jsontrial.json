@@ -1,5 +1,5 @@
 {
-  "name": "Open Horizon Robotics",
-  "project": "Linter Test",
-  "status": "active"
+  "name": "OHR",
+  "type": "ORG",
+  "active": true,
 }
