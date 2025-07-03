@@ -1,3 +1,3 @@
 def foo():
-    print("Hello world")  
+    print("Hello world")
     return 42
