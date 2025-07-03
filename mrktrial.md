@@ -1,8 +1,4 @@
-# This is a test
+#This is a heading
 
-This markdown file is used to test the linter.
-
-- item 1
-- item 2
-
-## Another Header
+-Item one
+-Item two
