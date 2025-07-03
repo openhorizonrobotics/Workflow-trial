@@ -1,0 +1,14 @@
+name: Lint Code Base
+
+on:
+  push:
+    paths:
+      - '**/*'
+  pull_request:
+    paths:
+      - '**/*'
+  workflow_dispatch:
+
+jobs:
+  call-super-linter:
+    uses: openhorizonrobotics/.github/.github/workflows/Superlinter.yml@main
