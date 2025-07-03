@@ -1,5 +1,3 @@
-function greet(name){
-console.log("Hello, " + name)
+function test(){
+console.log("hello")
 }
-
-greet("OHR")
